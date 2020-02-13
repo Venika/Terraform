@@ -1,0 +1,5 @@
+vcd_user=""
+vcd_pass=""
+vcd_org=""
+vcd_vdc=""
+vcd_url=""

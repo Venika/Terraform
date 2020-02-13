@@ -1,0 +1,7 @@
+1. Run the Terra.bat file
+2. Navigate to VCD_Automation or VRA7_Automation folder
+3. run 'Terraform plan' and then 'Terraform apply' to create the VMs
+
+VRA7_Automation- vBurstexample.tf is the config file that needs to be edited for different configurations.
+Multiple VMs can be created by defining the number in cluster.
+You would need to enter your username and password in terraform.tfvars.

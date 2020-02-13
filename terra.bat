@@ -1,0 +1,1 @@
+PATH=%PATH%;C:\*Enter YOUR_PATH*\terraform\terraform_0.12.9_windows_amd64
